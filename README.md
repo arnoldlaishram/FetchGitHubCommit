@@ -4,7 +4,7 @@
 
 ### This project include making a SSL connection since the GitHub api's are in "HTTPS"
 
-[![ScreenShot1](https://github.com/ArnoldLaishram/FetchGitHubCommit/ScreenShot.png)]
+[![ScreenShot1](https://github.com/ArnoldLaishram/FetchGitHubCommit/blob/master/ScreenShot.png)]
 
-[![ScreenShot2](https://github.com/ArnoldLaishram/FetchGitHubCommit/ScreenShot2.png)]
+[![ScreenShot2](https://github.com/ArnoldLaishram/FetchGitHubCommit/blob/master/ScreenShot2.png)]
 
